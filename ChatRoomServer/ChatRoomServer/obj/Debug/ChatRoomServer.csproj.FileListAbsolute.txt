@@ -1,0 +1,18 @@
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+C:\Users\test\Desktop\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
